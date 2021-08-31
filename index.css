@@ -118,6 +118,10 @@ h1 span:nth-child(14) {
   -webkit-animation-delay: 0.8s;
 }
 
+h1 span:nth-child(17) {
+    -webkit-animation-delay: 0.9s;
+  }
+
 /* ANIMATION */
 @-webkit-keyframes bounce {
   100% {
